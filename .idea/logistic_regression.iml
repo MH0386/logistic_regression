@@ -4,6 +4,6 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="jdk" jdkName="Anaconda" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="C1_W3_Labs" />
+    <orderEntry type="module" module-name="SupervisedLearning_A2" />
   </component>
 </module>
