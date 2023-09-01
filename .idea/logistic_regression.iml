@@ -6,4 +6,7 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="SupervisedLearning_A2" />
   </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="a77e0c9a-b854-454e-ac83-34e5769e4b37" />
+  </component>
 </module>
